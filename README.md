@@ -16,7 +16,7 @@ The job will require multiple systems to streamline the process, choose one whic
 2. A system to trade your resources in exchange of 'Kards'
 3. A system to pre-book resources on Biome-1109
 4. A central monitoring system of resources and trading
-5. An alogorithm to priorotize selection of people based on kards (kards value can be defined based on certain parameters such as usefulness to community growth, education , age etc.)
+5. An alogorithm to priorotize selection of people based on kards (kards value can be defined based on certain parameters such as usefulness to community growth, education , age etc. Think of other possible parameters and how they can relate to community growth on the other planet.)
 6. Your idea to help save the world
 
 #####Assumptions:
